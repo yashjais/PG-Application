@@ -4,12 +4,12 @@ PG application is an Backend App made via express and nodejs. It gives the facil
 
 ## Description 
 
-You can do CRUD operations on the buldings, rooms, amenities, tenants, reviews.
-Buildings can have name, address, landmark, type(ladies, gents or coed), maximum and minimum price of a room and amenities.
-Room can be alloted to a specific building and can have its own number, sharing type and price.
-Tenant can be alloted to a specific building and a room and will have a adhaar, mobile number, email, name, pan and can also give a rating.
-Amenities can be created so that they can be added on to the the specific room or building.
-Reviews have title and description, and they can only be created by a specific user.
+You can do CRUD operations on the buldings, rooms, amenities, tenants, reviews. <br />
+Buildings can have name, address, landmark, type(ladies, gents or coed), maximum and minimum price of a room and amenities. <br />
+Room can be alloted to a specific building and can have its own number, sharing type and price. <br />
+Tenant can be alloted to a specific building and a room and will have a adhaar, mobile number, email, name, pan and can also give a rating. <br />
+Amenities can be created so that they can be added on to the the specific room or building. <br />
+Reviews have title and description, and they can only be created by a specific user. <br />
 
 ## Dependencies
 
